@@ -1,0 +1,1 @@
+C:\Users\GodLu\IdeaProjects\FirstLAB\build\classes\kotlin\main\Address.class;C:\Users\GodLu\IdeaProjects\FirstLAB\build\classes\kotlin\main\AddressKt.class;C:\Users\GodLu\IdeaProjects\FirstLAB\build\classes\kotlin\main\MainKt.class

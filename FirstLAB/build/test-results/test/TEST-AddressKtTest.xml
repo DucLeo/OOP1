@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AddressKtTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-20T01:31:51" hostname="LEVIATHAN" time="0.08">
+  <properties/>
+  <testcase name="test_smallestIndex()" classname="AddressKtTest" time="0.053"/>
+  <testcase name="test_longestNameStreet()" classname="AddressKtTest" time="0.002"/>
+  <testcase name="test_shortestNameStreet()" classname="AddressKtTest" time="0.003"/>
+  <testcase name="test_biggestIndex()" classname="AddressKtTest" time="0.003"/>
+  <testcase name="test_parseListAddresses()" classname="AddressKtTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
